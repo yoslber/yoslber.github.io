@@ -12,10 +12,43 @@ Computer Graphics Forum (Proceedings of Eurographics 2020)
 Jaakko Lehtinen, Jacob Munkberg, Jon Hasselgren, Samuli Laine, Tero Karras, Miika Aittala, Timo Aila   
 International Conference on Machine Learning (ICML), 2018.
 
-[Texture Space Caching and Reconstruction for Ray Tracing](http://fileadmin.cs.lth.se/graphics/research/papers/2016/txspace/)   
+* [Texture Space Caching and Reconstruction for Ray Tracing](http://fileadmin.cs.lth.se/graphics/research/papers/2016/txspace/)   
 Jacob Munkberg, Jon Hasselgren, Petrik Clarberg, Magnus Andersson, and Tomas Akenine-Möller, 
 ACM Transactions on Graphics, vol. 35, no. 6 (SIGGRAPH Asia), 2016.
 
-[Local Shading Coherence Extraction for SIMD-Efficient Path Tracing on CPUs](http://dx.doi.org/10.2312/hpg.20161198)   
-Attila Afra, Carsten Benthin, Ingo Wald and Jacob Munkberg
+* [Local Shading Coherence Extraction for SIMD-Efficient Path Tracing on CPUs](http://dx.doi.org/10.2312/hpg.20161198)   
+Attila Afra, Carsten Benthin, Ingo Wald and Jacob Munkberg   
 High Performance Graphics 2016
+
+* [Filtered Stochastic Shadow Mapping Using a Layered Approach](http://onlinelibrary.wiley.com/doi/10.1111/cgf.12664/abstract)   
+Magnus Andersson, Jon Hasselgren, Jacob Munkberg and Tomas Akenine-Möller   
+Computer Graphics Forum, Volume 34, Issue 8, 2015   
+
+* [Practical Layered Reconstruction for Defocus and Motion Blur](http://jcgt.org/published/0004/02/04/)   
+Jon Hasselgren, Jacob Munkberg and Karthik Vaidyanathan   
+Journal of Computer Graphics Techniques, Volume 4, Issue 2
+
+* [Layered Light Field Reconstruction for Defocus Blur](http://software.intel.com/en-us/articles/layered-light-field-reconstruction-for-defocus-blur)   
+Karthik Vaidyanathan, Jacob Munkberg, Petrik Clarberg, and Marco Salvi   
+ACM Transactions on Graphics (TOG) Volume 34 Issue 2, February 2015
+
+* [Layered Reconstruction for Defocus and Motion Blur](http://fileadmin.cs.lth.se/graphics/research/papers/2014/recon5d/)
+Jacob Munkberg, Karthik Vaidyanathan, Jon Hasselgren, Petrik Clarberg, and Tomas Akenine-Möller   
+Computer Graphics Forum, Volume 33, Issue 4, (Eurographics Symposium of Rendering, 2014)
+
+* [Deep Shading Buffers on Commodity GPUs](https://software.intel.com/en-us/articles/deep-shading-buffers-on-commodity-gpus)   
+Petrik Clarberg and Jacob Munkberg   
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2014), vol. 33(6), 2014
+
+* [Coarse Pixel Shading](https://software.intel.com/en-us/articles/coarse-pixel-shading)   
+Karthik Vaidyanathan, Marco Salvi, Robert Toth, Tim Foley, Tomas Akenine-Möller, Jim Nilsson, Jacob Munkberg, Jon Hasselgren, Masamichi Sugihara, Petrik Clarberg, Tomasz Janczak, Aaron Lefohn   
+High Performance Graphics 2014
+
+* [Theory and Analysis of Higher-Order Motion Blur Rasterization](http://fileadmin.cs.lth.se/graphics/research/papers/2013/highorder/)      
+Carl Johan Gribel, Jacob Munkberg, Jon Hasselgren, and Tomas Akenine-Möller   
+High Performance Graphics, 2013
+
+* [A Sort-based Deferred Shading Architecture for Decoupled Sampling](http://software.intel.com/en-us/articles/a-sort-based-deferred-shading-architecture-for-decoupled-sampling)   
+Petrik Clarberg, Robert Toth, and Jacob Munkberg   
+ACM Transactions on Graphics (Proceedings of SIGGRAPH 2013), vol. 32(4).
+
