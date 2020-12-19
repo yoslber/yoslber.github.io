@@ -1,6 +1,4 @@
-# Title
-
-## Publications
+# Publications
 
 * [Neural Denoising with Layer Embeddings](https://research.nvidia.com/publication/2020-06_Neural-Denoising-with)   
 Jacob Munkberg, Jon Hasselgren   
