@@ -1,3 +1,7 @@
+layout: page
+title: "PAGE TITLE"
+permalink: .
+
 # Publications
 
 * [Neural Denoising with Layer Embeddings](https://research.nvidia.com/publication/2020-06_Neural-Denoising-with)   
@@ -32,7 +36,7 @@ Journal of Computer Graphics Techniques, Volume 4, Issue 2
 Karthik Vaidyanathan, Jacob Munkberg, Petrik Clarberg, and Marco Salvi   
 ACM Transactions on Graphics (TOG) Volume 34 Issue 2, February 2015
 
-* [Layered Reconstruction for Defocus and Motion Blur](http://fileadmin.cs.lth.se/graphics/research/papers/2014/recon5d/)
+* [Layered Reconstruction for Defocus and Motion Blur](http://fileadmin.cs.lth.se/graphics/research/papers/2014/recon5d/)   
 Jacob Munkberg, Karthik Vaidyanathan, Jon Hasselgren, Petrik Clarberg, and Tomas Akenine-Möller   
 Computer Graphics Forum, Volume 33, Issue 4, (Eurographics Symposium of Rendering, 2014)
 
