@@ -10,6 +10,10 @@ EGSR 2020
 Jon Hasselgren, Jacob Munkberg, Marco Salvi, Anjul Patney, Aaron Lefohn   
 Computer Graphics Forum (Proceedings of Eurographics 2020)
 
+* [Ray Tracing Gems](http://www.realtimerendering.com/raytracinggems/)   
+edited by Eric Haines and Tomas Akenine-Möller, from Apress.   
+(Denoising and Filtering, editor: Jacob Munkberg)
+
 * [Noise2Noise: Learning Image Restoration without Clean Data](https://research.nvidia.com/publication/2018-07_Noise2Noise%3A-Learning-Image)   
 Jaakko Lehtinen, Jacob Munkberg, Jon Hasselgren, Samuli Laine, Tero Karras, Miika Aittala, Timo Aila   
 International Conference on Machine Learning (ICML), 2018.
@@ -54,9 +58,16 @@ High Performance Graphics, 2013
 Petrik Clarberg, Robert Toth, and Jacob Munkberg   
 ACM Transactions on Graphics (Proceedings of SIGGRAPH 2013), vol. 32(4).
 
+* [Stochastic Depth Buffer Compression using Generalized Plane Encoding](http://fileadmin.cs.lth.se/graphics/research/papers/2013/zcompress/)   
+Magnus Andersson, Jacob Munkberg, and Tomas Akenine-Möller   
+Computer Graphics Forum (Proceedings of Eurographics 2013)
+
 * [Per-Vertex Defocus Blur for Stochastic Rasterization](http://fileadmin.cs.lth.se/graphics/research/papers/2012/pervertexdof/)   
 Jacob Munkberg, Robert Toth, and Tomas Akenine-Möller   
 Computer Graphics Forum (EGSR 2012), vol. 31, no. 4. 2012
+
+* [Proceedings of High-Performance Graphics 2012](http://diglib.eg.org/EG/DL/WS/EGGH/HPG12)      
+Carsten Dachsbacher, Jacob Munkberg and Jacopo Pantaleoni (Editors).   
 
 * [Hierarchical Stochastic Motion Blur Rasterization](http://fileadmin.cs.lth.se/graphics/research/papers/2011/mbtraversal/)   
 Jacob Munkberg, Petrik Clarberg, Jon Hasselgren, Robert Toth, Masamichi Sugihara, and Tomas Akenine-Möller   
