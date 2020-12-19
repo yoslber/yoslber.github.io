@@ -1,8 +1,6 @@
-layout: page
-title: "PAGE TITLE"
-permalink: .
+# Title
 
-# Publications
+## Publications
 
 * [Neural Denoising with Layer Embeddings](https://research.nvidia.com/publication/2020-06_Neural-Denoising-with)   
 Jacob Munkberg, Jon Hasselgren   
@@ -55,4 +53,21 @@ High Performance Graphics, 2013
 * [A Sort-based Deferred Shading Architecture for Decoupled Sampling](http://software.intel.com/en-us/articles/a-sort-based-deferred-shading-architecture-for-decoupled-sampling)   
 Petrik Clarberg, Robert Toth, and Jacob Munkberg   
 ACM Transactions on Graphics (Proceedings of SIGGRAPH 2013), vol. 32(4).
+
+* [Per-Vertex Defocus Blur for Stochastic Rasterization](http://fileadmin.cs.lth.se/graphics/research/papers/2012/pervertexdof/)   
+Jacob Munkberg, Robert Toth, and Tomas Akenine-Möller   
+Computer Graphics Forum (EGSR 2012), vol. 31, no. 4. 2012
+
+* [Hierarchical Stochastic Motion Blur Rasterization](http://fileadmin.cs.lth.se/graphics/research/papers/2011/mbtraversal/)   
+Jacob Munkberg, Petrik Clarberg, Jon Hasselgren, Robert Toth, Masamichi Sugihara, and Tomas Akenine-Möller   
+High Performance Graphics 2011, pp. 107-118
+
+* [Automatic Pre-Tessellation Culling](http://fileadmin.cs.lth.se/graphics/research/papers/2009/tcu)   
+Jon Hasselgren, Jacob Munkberg and Tomas Akenine-Möller
+ACM Transactions on Graphics, 28(2):19, 2009
+
+* [High Dynamic Range Texture Compression For Graphics Hardware](http://fileadmin.cs.lth.se/graphics/research/papers/hdrtexture2006/)   
+Jacob Munkberg, Petrik Clarberg, Jon Hasselgren and Tomas Akenine-Möller   
+ACM Transactions on Graphics (Proceedings of SIGGRAPH 2006),
+
 
