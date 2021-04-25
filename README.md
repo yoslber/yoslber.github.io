@@ -1,5 +1,17 @@
 # Publications
 
+* [Appearance-Driven Automatic 3D Model Simplification](https://research.nvidia.com/publication/2021-04_Appearance-Driven-Automatic-3D)   
+Jon Hasselgren, Jacob Munkberg, Jaakko Lehtinen, Miika Aittala, Samuli Laine   
+arXiv
+
+* [Interactive Path Tracing and Reconstruction of Sparse Volumes](https://research.nvidia.com/publication/2021-03_Interactive-Path-Tracing)
+Nikolai Hofmann, Jon Hasselgren, Petrik Clarberg, Jacob Munkberg   
+i3D 2021 (Best paper award)
+
+* [Neural Denoising with Layer Embeddings](https://research.nvidia.com/publication/2020-06_Neural-Denoising-with)   
+Jacob Munkberg, Jon Hasselgren   
+EGSR 2020
+
 * [Neural Denoising with Layer Embeddings](https://research.nvidia.com/publication/2020-06_Neural-Denoising-with)   
 Jacob Munkberg, Jon Hasselgren   
 EGSR 2020
