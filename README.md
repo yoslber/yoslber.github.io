@@ -4,7 +4,7 @@
 Jon Hasselgren, Jacob Munkberg, Jaakko Lehtinen, Miika Aittala, Samuli Laine   
 arXiv
 
-* [Interactive Path Tracing and Reconstruction of Sparse Volumes](https://research.nvidia.com/publication/2021-03_Interactive-Path-Tracing)
+* [Interactive Path Tracing and Reconstruction of Sparse Volumes](https://research.nvidia.com/publication/2021-03_Interactive-Path-Tracing)   
 Nikolai Hofmann, Jon Hasselgren, Petrik Clarberg, Jacob Munkberg   
 i3D 2021 (Best paper award)
 
